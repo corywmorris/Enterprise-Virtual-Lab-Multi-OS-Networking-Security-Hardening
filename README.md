@@ -39,7 +39,7 @@ Project governance was maintained through a centralized Office Network Plan, tra
 
 Figure 5: Cloud-integrated documentation workflow for project administration.
 
-🛠 Skills Demonstrated
+  Skills Demonstrated
 Virtualization: UTM, QEMU, ARM64 Architecture.
 
 Networking: Bridged Networking, Subnetting, ICMP Troubleshooting.
